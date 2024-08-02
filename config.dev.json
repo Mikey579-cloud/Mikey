@@ -12,8 +12,8 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "GENOS....",
-	"prefix": "€",
+	"nickNameBot": "𝗧𝗥𝗨𝗡𝗞𝗦 𝗫𝗘𝗡𝗢 𝗕𝗢𝗧 🥷🏻🩸",
+	"prefix": "$",
 	"adminOnly": {
 		
                  
@@ -23,8 +23,8 @@
 		"ignoreCommand": []
 	},
 	"adminBot": [
-		"61559119588245",
-		"61561687344778"
+		"100088787378777",
+		"61563377278289"
 		
 	],
 	"whiteListMode": {
